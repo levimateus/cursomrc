@@ -10,3 +10,4 @@ aws.secret_access_key=
 s3.bucket=
 s3.region=
 img.prefix.client.profile=cp
+img.profile.size=200
